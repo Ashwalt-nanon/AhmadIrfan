@@ -1,17 +1,17 @@
 # Project Title Here
 
-> A clear, one-sentence summary of your project and what value it provides.
+Web based Crime Rate Forecasting AI
 
 ## 📌 Project Status
 - **Current Status:** 🟢 Planning / In Progress
 
 ## 📝 Problem Statement
-[Briefly describe the core problem your project addresses. See the full version in the docs.]
+[Current crime prediction algorithms lack the accuracy to handle complex, high-dimensional data, highlighting an urgent need for more advanced tools to help law enforcement combat criminal activity.]
 
 ## 📂 Documentation
 All project documents are located in the `docs/` folder:
 - [Problem Statement](./docs/problem-statement.md)
-- [Requirements](./docs/requirements.md)
+- [Requirements](./docs/requirement.md)
 - [User Stories](./docs/user-stories.md)
 
 ## 👤 Author
